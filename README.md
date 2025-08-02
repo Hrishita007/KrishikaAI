@@ -71,6 +71,18 @@ Summary:
 
 
 
+## 📸 Screenshots
+
+<img src="./assets/Screenshot1.png" width="800">
+<img src="./assets/Screenshot2.png" width="800">
+<img src="./assets/Screenshot3.png" width="800">
+<img src="./assets/Screenshot4.png" width="800">
+<img src="./assets/Screenshot5.png" width="800">
+<img src="./assets/Screenshot6.png" width="800">
+<img src="./assets/Screenshot7.png" width="800">
+<img src="./assets/Screenshot8.png" width="800">
+<img src="./assets/Screenshot9.png" width="800">
+<img src="./assets/Screenshot10.png" width="800">
 
 
 ---
