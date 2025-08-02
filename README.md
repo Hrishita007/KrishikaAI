@@ -8,7 +8,7 @@
 
 **AI Agent for Smart Farming Advice**
 
-Build an AI Agent powered by RAG (Retrieval-Augmented Generation) that provides localized, real-time agricultural advice to small-scale farmers. It should fetch trusted information on:
+Build an AI Agent powered by RAG (Retrieval-Augmented Generation) that provides localized, real-time agricultural advice to small-scale farmers. It should fetch trusted information on: 
 
 - 🌦️ Weather forecasts  
 - 🌱 Soil conditions  
