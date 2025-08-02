@@ -96,7 +96,7 @@ Summary:
 
 **Developed by:**  
 🎓 Hrishita Dey Purkayastha  
-📬 [LinkedIn](https://www.linkedin.com/in/hrishita-dey-purkayastha) | 📧 [Email](mailto:your-email@example.com)  
+📬 [LinkedIn](www.linkedin.com/in/hrishita-dey-purkayastha-5157092ba) | 📧 [Email](hrishu071@gmail.com)  
 
 ---
 
